@@ -7,3 +7,8 @@ copy the ".keylayout" and with ".icns" file to Macintosh HD/Library/Keyboard Lay
 default layer= consonant/vowel(1)
 shift layer= consonant(2)
 shift+option= syllables
+
+note: the ".icns" file created by Emir SARI <bitigchi@me.com>, 2020.
+
+for more his works;
+  https://bitigchi.github.io/oldTurkic.html
